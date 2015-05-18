@@ -1,0 +1,6 @@
+# floormesquare
+start on robotics to measure and map building interiors
+Itxs perfectly okay to laugh it up, to get a chuckle, to while away a moment or so at my expense. I do it frequently myself?  I have ba good idea on ocassion, and when the light sparks to life I usually just lean bsck, breathedeeply, turn up the audio and do my utmost to forget sny project thst adds hours to my workaday grind. Aftrtall, the adage,"sometimes you haVe to stop and smell the sidewalk" rings true enough.
+
+
+I am not a programer, coder, mechanical engineer, not me. For MOST OF my life I was a beat reporteR. A BEAT REPORTER, EVERY BEAT REPORTER, HAS TWO THINGS IN COMMON. FIRST OFF, THEY KNOW A SUBSTANCIAL NUMBER OF CRIMINALS. THEY ALSO NEED AN EDITOR, A MEDIA OUTLET AND A READER, OR LISTENOR TO COMMUNICATE WHAT THEY HAVE LEARNED. THE ONE REPORTER I KNEW WHO WORKED STRICTLY ON HIS OWN, NEVER PUBLISHED THAT MUCH AND AKWAYS BORROWED MONEY. I WILL ACCEPT MONEY, LARGE UNMARKED BILLS PREFERABLY. BUT THE THING IS THUS, I CAN SELL THIS IDEA OR SHARE IT, WORK THE ISKES WITH YOU , DEVELOP IT INTO A WORKING PROJECT AND THEN DONATE IT OR MAYBE MARKETBIT PERSONALLY, ONENHOPES TO LIVE THAT LONG. IM NOT CERTAIN WHERE TO BEGIN. SO LETS HAVE SOME IDEAS, SONE DIRECTION POINTING,OTHERWISE, LEFT DANGLING IN THE NETHERWORLD OF EMPTY HEADEDNESS, MY ONLY OPTION IS THE SIDEWALK THING. 
